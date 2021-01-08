@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Darren/eclipse-workspace/Project/lib/microstream/base.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Darren/eclipse-workspace/Project/lib/microstream/persistence.binary.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Darren/eclipse-workspace/Project/lib/microstream/persistence.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Darren/eclipse-workspace/Project/lib/microstream/storage.embedded.configuration.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Darren/eclipse-workspace/Project/lib/microstream/storage.embedded.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Darren/eclipse-workspace/Project/lib/microstream/storage.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Darren/eclipse-workspace/Project/lib/commons-text-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Darren/eclipse-workspace/Project/lib/dom.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Darren/eclipse-workspace/Project/lib/myJar.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Darren/eclipse-workspace/Project/lib/javafx/lib/javafx.base.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Darren/eclipse-workspace/Project/lib/javafx/lib/javafx.controls.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Darren/eclipse-workspace/Project/lib/javafx/lib/javafx.graphics.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
